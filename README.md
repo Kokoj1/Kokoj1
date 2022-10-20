@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm I'm Kokoj</h1>
+<h1 align="center">Hi 👋,I'm Kokoj</h1>
 <h3 align="center">IT student</h3>
 
 - 🌱 I’m currently learning **Java and Javascript**
